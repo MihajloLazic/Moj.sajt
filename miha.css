@@ -186,6 +186,11 @@ p{
 
     .diff_lokacija_item {
         width: 95%;
+        width: 300px;
+        height: 450px;
+        style: border: 0; 
+        allowfullscreen: "";
+        loading: lazy;
     }
 
     .diff_lokacija_item h3 {
