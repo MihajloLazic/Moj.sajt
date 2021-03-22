@@ -188,12 +188,6 @@ p{
         width: 95%;
     }
 
-    .diff_lokacija_item img {
-        width: 95%;
-        margin-bottom: 35px;
-        resize: vertical;
-    }
-
     .diff_lokacija_item h3 {
         color: rgb(0, 0, 0);
         margin-bottom: 15px;
