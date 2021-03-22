@@ -65,7 +65,7 @@ p{
         background: url("App-development-1920-x-800.jpg") no-repeat top center;
         background-size: cover;
         width: 100%;
-        height: auto;
+        height: 600px;
         display: flex;
         justify-content: center;
         align-items: center;
